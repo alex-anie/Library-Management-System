@@ -1,0 +1,9 @@
+export enum BookCategory {
+    FICTION = "FICTION",
+    NONFICTION = "NONFICTION",
+    SCIENCE = "SCIENCE",
+    HISTORY = "HISTORY",
+    BIOGRAPHY = "BIOGRAPHY",
+    TECHNOLOGY = "TECHNOLOGY",
+    OTHER = "OTHER"
+}
